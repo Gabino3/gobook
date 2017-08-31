@@ -1,4 +1,4 @@
 # gobook
-'''go
+```go
 package test
-'''
+```
