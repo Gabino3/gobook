@@ -1,1 +1,4 @@
 # gobook
+'''go
+package test
+'''
